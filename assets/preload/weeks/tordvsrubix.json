@@ -1,0 +1,40 @@
+{
+	"storyName": "battle with tord",
+	"difficulties": "Easy, Normal, Hard, Mania",
+	"hideFreeplay": false,
+	"weekBackground": "tord",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Scandinavian",
+			"tord",
+			[
+				255,
+				60,
+				60
+			]
+		],
+		[
+			"Tord-V-Rubix",
+			"tord",
+			[
+				255,
+				60,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "tordvrubix"
+}

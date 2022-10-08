@@ -1,0 +1,58 @@
+{
+	"storyName": "Extra Covers/Songs",
+	"difficulties": "Easy, Normal, Hard, Mania",
+	"hideFreeplay": false,
+	"weekBackground": "extra",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Monochrome",
+			"deadrubix",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Termination",
+			"rubix",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Cheating",
+			"rubix",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Final-Destination",
+			"magnetpeep",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "extra"
+}

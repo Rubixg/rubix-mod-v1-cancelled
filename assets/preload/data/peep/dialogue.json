@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AYO PEEP!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah what?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "can you deal with this 4'2 idiot please whilst i do something then we can fight him together in a rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah sure what did he do?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he basically rearranged him"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peep",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "he WHAT???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peep",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "ALRIGHT YOU IDIOT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "peep",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOUR GONNA FEEL WHAT ITS LIKE TO DO THAT TO MY FRIEND!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "ok-k-k-k"
+		}
+	]
+}

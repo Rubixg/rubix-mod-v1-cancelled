@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="newercal.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cal_Down0000" x="0" y="0" width="153" height="209"/>
+	<SubTexture name="Cal_Down0001" x="153" y="0" width="153" height="207" frameX="0" frameY="-1" frameWidth="153" frameHeight="209"/>
+	<SubTexture name="Cal_Down0002" x="306" y="0" width="153" height="203" frameX="0" frameY="-3" frameWidth="153" frameHeight="209"/>
+	<SubTexture name="Cal_Down0003" x="459" y="0" width="153" height="201" frameX="0" frameY="-4" frameWidth="153" frameHeight="209"/>
+	<SubTexture name="Cal_Down0004" x="612" y="0" width="153" height="198" frameX="0" frameY="-6" frameWidth="153" frameHeight="209"/>
+	<SubTexture name="Cal_Down0005" x="765" y="0" width="153" height="195" frameX="0" frameY="-8" frameWidth="153" frameHeight="209"/>
+	<SubTexture name="Cal_Down0006" x="765" y="0" width="153" height="195" frameX="0" frameY="-8" frameWidth="153" frameHeight="209"/>
+	<SubTexture name="Cal_Down0007" x="765" y="0" width="153" height="195" frameX="0" frameY="-8" frameWidth="153" frameHeight="209"/>
+	<SubTexture name="Cal_Down0008" x="765" y="0" width="153" height="195" frameX="0" frameY="-8" frameWidth="153" frameHeight="209"/>
+	<SubTexture name="Cal_Down0009" x="765" y="0" width="153" height="195" frameX="0" frameY="-8" frameWidth="153" frameHeight="209"/>
+	<SubTexture name="Cal_Idle0000" x="918" y="0" width="147" height="204" frameX="0" frameY="0" frameWidth="149" frameHeight="211"/>
+	<SubTexture name="Cal_Idle0001" x="1065" y="0" width="148" height="205" frameX="0" frameY="-1" frameWidth="149" frameHeight="211"/>
+	<SubTexture name="Cal_Idle0002" x="1213" y="0" width="148" height="204" frameX="0" frameY="-3" frameWidth="149" frameHeight="211"/>
+	<SubTexture name="Cal_Idle0003" x="1361" y="0" width="147" height="203" frameX="-1" frameY="-5" frameWidth="149" frameHeight="211"/>
+	<SubTexture name="Cal_Idle0004" x="1508" y="0" width="148" height="203" frameX="-1" frameY="-6" frameWidth="149" frameHeight="211"/>
+	<SubTexture name="Cal_Idle0005" x="1656" y="0" width="148" height="203" frameX="-1" frameY="-8" frameWidth="149" frameHeight="211"/>
+	<SubTexture name="Cal_Idle0006" x="1656" y="0" width="148" height="203" frameX="-1" frameY="-8" frameWidth="149" frameHeight="211"/>
+	<SubTexture name="Cal_Idle0007" x="1656" y="0" width="148" height="203" frameX="-1" frameY="-8" frameWidth="149" frameHeight="211"/>
+	<SubTexture name="Cal_Idle0008" x="1656" y="0" width="148" height="203" frameX="-1" frameY="-8" frameWidth="149" frameHeight="211"/>
+	<SubTexture name="Cal_Idle0009" x="1656" y="0" width="148" height="203" frameX="-1" frameY="-8" frameWidth="149" frameHeight="211"/>
+	<SubTexture name="Cal_Left0000" x="1804" y="0" width="175" height="205" frameX="0" frameY="-3" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="Cal_Left0001" x="0" y="209" width="175" height="206" frameX="0" frameY="-2" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="Cal_Left0002" x="175" y="209" width="174" height="208" frameX="0" frameY="-1" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="Cal_Left0003" x="349" y="209" width="174" height="208" frameX="0" frameY="-1" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="Cal_Left0004" x="523" y="209" width="174" height="210" frameX="0" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="Cal_Left0005" x="697" y="209" width="173" height="210" frameX="-1" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="Cal_Left0006" x="697" y="209" width="173" height="210" frameX="-1" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="Cal_Left0007" x="697" y="209" width="173" height="210" frameX="-1" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="Cal_Left0008" x="697" y="209" width="173" height="210" frameX="-1" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="Cal_Left0009" x="697" y="209" width="173" height="210" frameX="-1" frameY="0" frameWidth="175" frameHeight="210"/>
+	<SubTexture name="Cal_Right0000" x="870" y="209" width="154" height="209" frameX="-2" frameY="0" frameWidth="156" frameHeight="209"/>
+	<SubTexture name="Cal_Right0001" x="1024" y="209" width="150" height="209" frameX="-4" frameY="0" frameWidth="156" frameHeight="209"/>
+	<SubTexture name="Cal_Right0002" x="1174" y="209" width="147" height="209" frameX="-5" frameY="0" frameWidth="156" frameHeight="209"/>
+	<SubTexture name="Cal_Right0003" x="1321" y="209" width="147" height="209" frameX="-3" frameY="0" frameWidth="156" frameHeight="209"/>
+	<SubTexture name="Cal_Right0004" x="1468" y="209" width="147" height="209" frameX="-1" frameY="0" frameWidth="156" frameHeight="209"/>
+	<SubTexture name="Cal_Right0005" x="1615" y="209" width="150" height="209" frameX="0" frameY="0" frameWidth="156" frameHeight="209"/>
+	<SubTexture name="Cal_Right0006" x="1615" y="209" width="150" height="209" frameX="0" frameY="0" frameWidth="156" frameHeight="209"/>
+	<SubTexture name="Cal_Right0007" x="1615" y="209" width="150" height="209" frameX="0" frameY="0" frameWidth="156" frameHeight="209"/>
+	<SubTexture name="Cal_Right0008" x="1615" y="209" width="150" height="209" frameX="0" frameY="0" frameWidth="156" frameHeight="209"/>
+	<SubTexture name="Cal_Right0009" x="1615" y="209" width="150" height="209" frameX="0" frameY="0" frameWidth="156" frameHeight="209"/>
+	<SubTexture name="Cal_Up0000" x="1765" y="209" width="160" height="202" frameX="0" frameY="-11" frameWidth="161" frameHeight="225"/>
+	<SubTexture name="Cal_Up0001" x="0" y="419" width="161" height="207" frameX="0" frameY="-9" frameWidth="161" frameHeight="225"/>
+	<SubTexture name="Cal_Up0002" x="161" y="419" width="161" height="212" frameX="0" frameY="-6" frameWidth="161" frameHeight="225"/>
+	<SubTexture name="Cal_Up0003" x="322" y="419" width="161" height="216" frameX="0" frameY="-4" frameWidth="161" frameHeight="225"/>
+	<SubTexture name="Cal_Up0004" x="483" y="419" width="161" height="221" frameX="0" frameY="-2" frameWidth="161" frameHeight="225"/>
+	<SubTexture name="Cal_Up0005" x="644" y="419" width="161" height="225"/>
+	<SubTexture name="Cal_Up0006" x="644" y="419" width="161" height="225"/>
+	<SubTexture name="Cal_Up0007" x="644" y="419" width="161" height="225"/>
+	<SubTexture name="Cal_Up0008" x="644" y="419" width="161" height="225"/>
+	<SubTexture name="Cal_Up0009" x="644" y="419" width="161" height="225"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-100,
+				670
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Peep idle dance"
+		},
+		{
+			"offsets": [
+				-100,
+				670
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Peep Sing Note UP"
+		},
+		{
+			"offsets": [
+				-100,
+				670
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Peep Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-100,
+				670
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Peep Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-100,
+				670
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Peep Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sadpeep",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "peep",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		250,
+		45
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

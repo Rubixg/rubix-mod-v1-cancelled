@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"The-Finale",
+			"finalrubix",
+			[
+				60,
+				60,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "finale",
+	"difficulties": "Finale",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "the finale",
+	"weekName": "The Finale",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

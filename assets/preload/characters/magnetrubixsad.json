@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Magnetrubix idle dance"
+		},
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Magnetrubix Sing Note UP"
+		},
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Magnetrubix Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Magnetrubix Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Magnetrubix Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/magnetrubixsad",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "magnet",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		30,
+		8
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

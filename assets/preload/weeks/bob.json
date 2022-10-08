@@ -1,0 +1,49 @@
+{
+	"storyName": "",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "qtvsrubix",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Happy",
+			"bob",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Mad",
+			"angrybob",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Death",
+			"hellbob",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "bob"
+}

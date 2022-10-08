@@ -1,0 +1,49 @@
+{
+	"storyName": "vs dave and bambi",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "davebambi",
+	"weekBefore": "tordvsrubix",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Backyard",
+			"dave",
+			[
+				146,
+				133,
+				75
+			]
+		],
+		[
+			"Corn-guard",
+			"bambi",
+			[
+				166,
+				153,
+				95
+			]
+		],
+		[
+			"Split",
+			"dave",
+			[
+				226,
+				213,
+				155
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "vs dave and bambi"
+}

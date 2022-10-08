@@ -1,0 +1,62 @@
+{
+	"storyName": "rubix",
+	"difficulties": "Easy, Normal, Hard, Expert",
+	"hideFreeplay": false,
+	"weekBackground": "rubix",
+	"weekBefore": "week5",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Solved",
+			"rubix",
+			[
+				95,
+				120,
+				255
+			]
+		],
+		[
+			"Cube",
+			"rubix",
+			[
+				95,
+				120,
+				255
+			]
+		],
+		[
+			"Rubix-Cube",
+			"rubix",
+			[
+				95,
+				120,
+				255
+			]
+		],
+		[
+			"Rearranged",
+			"spirit-pixel",
+			[
+				20,
+				20,
+				13
+			]
+		],
+		[
+			"Pain",
+			"finalrubix",
+			[
+				0,
+				0,
+				73
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "rubix"
+}

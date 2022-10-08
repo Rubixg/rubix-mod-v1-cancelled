@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait who are you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rubix"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why are you here"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "to sing 2 songs with you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "tord",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fine"
+		}
+	]
+}

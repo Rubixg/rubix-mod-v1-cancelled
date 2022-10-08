@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="magnetangry.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Magnet_Angry_Down0000" x="0" y="0" width="350" height="339"/>
+	<SubTexture name="Magnet_Angry_Down0001" x="350" y="0" width="350" height="335" frameX="0" frameY="-2" frameWidth="350" frameHeight="339"/>
+	<SubTexture name="Magnet_Angry_Down0002" x="700" y="0" width="350" height="332" frameX="0" frameY="-3" frameWidth="350" frameHeight="339"/>
+	<SubTexture name="Magnet_Angry_Down0003" x="1050" y="0" width="350" height="329" frameX="0" frameY="-5" frameWidth="350" frameHeight="339"/>
+	<SubTexture name="Magnet_Angry_Down0004" x="1050" y="0" width="350" height="329" frameX="0" frameY="-5" frameWidth="350" frameHeight="339"/>
+	<SubTexture name="Magnet_Angry_Down0005" x="1050" y="0" width="350" height="329" frameX="0" frameY="-5" frameWidth="350" frameHeight="339"/>
+	<SubTexture name="Magnet_Angry_Idle0000" x="1400" y="0" width="415" height="344" frameX="-56" frameY="-17" frameWidth="498" frameHeight="361"/>
+	<SubTexture name="Magnet_Angry_Idle0001" x="1400" y="0" width="415" height="344" frameX="-56" frameY="-17" frameWidth="498" frameHeight="361"/>
+	<SubTexture name="Magnet_Angry_Idle0002" x="0" y="344" width="498" height="359" frameX="0" frameY="0" frameWidth="498" frameHeight="361"/>
+	<SubTexture name="Magnet_Angry_Idle0003" x="498" y="344" width="498" height="359" frameX="0" frameY="0" frameWidth="498" frameHeight="361"/>
+	<SubTexture name="Magnet_Angry_Idle0004" x="996" y="344" width="415" height="344" frameX="-56" frameY="-17" frameWidth="498" frameHeight="361"/>
+	<SubTexture name="Magnet_Angry_Idle0005" x="996" y="344" width="415" height="344" frameX="-56" frameY="-17" frameWidth="498" frameHeight="361"/>
+	<SubTexture name="Magnet_Angry_Idle0006" x="996" y="344" width="415" height="344" frameX="-56" frameY="-17" frameWidth="498" frameHeight="361"/>
+	<SubTexture name="Magnet_Angry_Idle0007" x="996" y="344" width="415" height="344" frameX="-56" frameY="-17" frameWidth="498" frameHeight="361"/>
+	<SubTexture name="Magnet_Angry_Idle0008" x="996" y="344" width="415" height="344" frameX="-56" frameY="-17" frameWidth="498" frameHeight="361"/>
+	<SubTexture name="Magnet_Angry_Idle0009" x="996" y="344" width="415" height="344" frameX="-56" frameY="-17" frameWidth="498" frameHeight="361"/>
+	<SubTexture name="Magnet_Angry_Idle0010" x="996" y="344" width="415" height="344" frameX="-56" frameY="-17" frameWidth="498" frameHeight="361"/>
+	<SubTexture name="Magnet_Angry_Idle0011" x="996" y="344" width="415" height="344" frameX="-56" frameY="-17" frameWidth="498" frameHeight="361"/>
+	<SubTexture name="Magnet_Angry_Idle0012" x="996" y="344" width="415" height="344" frameX="-56" frameY="-17" frameWidth="498" frameHeight="361"/>
+	<SubTexture name="Magnet_Angry_Idle0013" x="996" y="344" width="415" height="344" frameX="-56" frameY="-17" frameWidth="498" frameHeight="361"/>
+	<SubTexture name="Magnet_Angry_Idle0014" x="996" y="344" width="415" height="344" frameX="-56" frameY="-17" frameWidth="498" frameHeight="361"/>
+	<SubTexture name="Magnet_Angry_Left0000" x="1411" y="344" width="332" height="345" frameX="-6" frameY="0" frameWidth="347" frameHeight="346"/>
+	<SubTexture name="Magnet_Angry_Left0001" x="0" y="703" width="336" height="346" frameX="-5" frameY="0" frameWidth="347" frameHeight="346"/>
+	<SubTexture name="Magnet_Angry_Left0002" x="336" y="703" width="342" height="346" frameX="-2" frameY="0" frameWidth="347" frameHeight="346"/>
+	<SubTexture name="Magnet_Angry_Left0003" x="678" y="703" width="347" height="345" frameX="0" frameY="0" frameWidth="347" frameHeight="346"/>
+	<SubTexture name="Magnet_Angry_Left0004" x="678" y="703" width="347" height="345" frameX="0" frameY="0" frameWidth="347" frameHeight="346"/>
+	<SubTexture name="Magnet_Angry_Left0005" x="678" y="703" width="347" height="345" frameX="0" frameY="0" frameWidth="347" frameHeight="346"/>
+	<SubTexture name="Magnet_Angry_Right0000" x="1025" y="703" width="407" height="343" frameX="-3" frameY="0" frameWidth="410" frameHeight="344"/>
+	<SubTexture name="Magnet_Angry_Right0001" x="1432" y="703" width="407" height="344" frameX="-2" frameY="0" frameWidth="410" frameHeight="344"/>
+	<SubTexture name="Magnet_Angry_Right0002" x="0" y="1049" width="406" height="344" frameX="-1" frameY="0" frameWidth="410" frameHeight="344"/>
+	<SubTexture name="Magnet_Angry_Right0003" x="406" y="1049" width="406" height="343" frameX="0" frameY="0" frameWidth="410" frameHeight="344"/>
+	<SubTexture name="Magnet_Angry_Right0004" x="406" y="1049" width="406" height="343" frameX="0" frameY="0" frameWidth="410" frameHeight="344"/>
+	<SubTexture name="Magnet_Angry_Right0005" x="406" y="1049" width="406" height="343" frameX="0" frameY="0" frameWidth="410" frameHeight="344"/>
+	<SubTexture name="Magnet_Angry_Up0000" x="812" y="1049" width="333" height="379"/>
+	<SubTexture name="Magnet_Angry_Up0001" x="1145" y="1049" width="333" height="376" frameX="0" frameY="-1" frameWidth="333" frameHeight="379"/>
+	<SubTexture name="Magnet_Angry_Up0002" x="1478" y="1049" width="333" height="373" frameX="0" frameY="-3" frameWidth="333" frameHeight="379"/>
+	<SubTexture name="Magnet_Angry_Up0003" x="0" y="1428" width="333" height="369" frameX="0" frameY="-5" frameWidth="333" frameHeight="379"/>
+	<SubTexture name="Magnet_Angry_Up0004" x="0" y="1428" width="333" height="369" frameX="0" frameY="-5" frameWidth="333" frameHeight="379"/>
+	<SubTexture name="Magnet_Angry_Up0005" x="0" y="1428" width="333" height="369" frameX="0" frameY="-5" frameWidth="333" frameHeight="379"/>
+</TextureAtlas>

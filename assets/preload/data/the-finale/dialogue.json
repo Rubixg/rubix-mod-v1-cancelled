@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "magnet"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah rubix?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "can you join me for the finale with this person?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well first of all, this kid-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "actually im 19"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "do your research next time"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "as i was saying, this person is like really annoying and tried to kill you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "true"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but sure ill join you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok i actually wanna beat him this time so how many keys shall we do for him to press?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "idk"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "26?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no no no thats too much. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how about 11 keys?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sure"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh god"
+		}
+	]
+}

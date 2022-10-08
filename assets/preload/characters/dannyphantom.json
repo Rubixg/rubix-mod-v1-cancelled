@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Fearlol idle dance"
+		},
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Fearlol Sing Note UP"
+		},
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Fearlol Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Fearlol Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Fearlol Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dannyphantomassets",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "fear",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

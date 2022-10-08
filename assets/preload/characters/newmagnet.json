@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Magnet idle dance"
+		},
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Magnet Sing Note UP"
+		},
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Magnet Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Magnet Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Magnet Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/newmagnet",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "magnet",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		30,
+		8
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

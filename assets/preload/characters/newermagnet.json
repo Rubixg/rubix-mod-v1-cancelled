@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-150,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Magnet_Idle"
+		},
+		{
+			"offsets": [
+				-150,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Magnet_Right"
+		},
+		{
+			"offsets": [
+				-160,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Magnet_Down"
+		},
+		{
+			"offsets": [
+				-150,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Magnet_Left"
+		},
+		{
+			"offsets": [
+				-150,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Magnet_Up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/newermagnet",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "magnet",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		69,
+		69
+	],
+	"camera_position": [
+		10,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

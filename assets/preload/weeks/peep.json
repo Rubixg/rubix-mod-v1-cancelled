@@ -1,0 +1,49 @@
+{
+	"storyName": "Peep",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "peep",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Peep",
+			"peep",
+			[
+				146,
+				133,
+				75
+			]
+		],
+		[
+			"Xen",
+			"peep",
+			[
+				166,
+				153,
+				95
+			]
+		],
+		[
+			"Final-chance",
+			"peep",
+			[
+				226,
+				213,
+				155
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Peep"
+}

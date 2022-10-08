@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey that was really fun as well"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah it was! "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i think i might have to step up my game again!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that will be cool"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hope you do good!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you too"
+		}
+	]
+}

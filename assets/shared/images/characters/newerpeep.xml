@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="newerpeep.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Peep_Down0000" x="0" y="0" width="204" height="136" frameX="0" frameY="0" frameWidth="206" frameHeight="136"/>
+	<SubTexture name="Peep_Down0001" x="204" y="0" width="204" height="136" frameX="0" frameY="0" frameWidth="206" frameHeight="136"/>
+	<SubTexture name="Peep_Down0002" x="408" y="0" width="205" height="135" frameX="0" frameY="0" frameWidth="206" frameHeight="136"/>
+	<SubTexture name="Peep_Down0003" x="613" y="0" width="205" height="135" frameX="0" frameY="0" frameWidth="206" frameHeight="136"/>
+	<SubTexture name="Peep_Down0004" x="818" y="0" width="206" height="134" frameX="0" frameY="0" frameWidth="206" frameHeight="136"/>
+	<SubTexture name="Peep_Down0005" x="1024" y="0" width="206" height="134" frameX="0" frameY="0" frameWidth="206" frameHeight="136"/>
+	<SubTexture name="Peep_Down0006" x="1024" y="0" width="206" height="134" frameX="0" frameY="0" frameWidth="206" frameHeight="136"/>
+	<SubTexture name="Peep_Down0007" x="1024" y="0" width="206" height="134" frameX="0" frameY="0" frameWidth="206" frameHeight="136"/>
+	<SubTexture name="Peep_Down0008" x="1024" y="0" width="206" height="134" frameX="0" frameY="0" frameWidth="206" frameHeight="136"/>
+	<SubTexture name="Peep_Down0009" x="1024" y="0" width="206" height="134" frameX="0" frameY="0" frameWidth="206" frameHeight="136"/>
+	<SubTexture name="Peep_Idle0000" x="1230" y="0" width="201" height="138" frameX="0" frameY="0" frameWidth="201" frameHeight="144"/>
+	<SubTexture name="Peep_Idle0001" x="1431" y="0" width="201" height="138" frameX="0" frameY="0" frameWidth="201" frameHeight="144"/>
+	<SubTexture name="Peep_Idle0002" x="1632" y="0" width="201" height="140" frameX="0" frameY="0" frameWidth="201" frameHeight="144"/>
+	<SubTexture name="Peep_Idle0003" x="1833" y="0" width="200" height="141" frameX="0" frameY="0" frameWidth="201" frameHeight="144"/>
+	<SubTexture name="Peep_Idle0004" x="0" y="141" width="201" height="143" frameX="0" frameY="0" frameWidth="201" frameHeight="144"/>
+	<SubTexture name="Peep_Idle0005" x="201" y="141" width="201" height="144"/>
+	<SubTexture name="Peep_Idle0006" x="201" y="141" width="201" height="144"/>
+	<SubTexture name="Peep_Idle0007" x="201" y="141" width="201" height="144"/>
+	<SubTexture name="Peep_Idle0008" x="201" y="141" width="201" height="144"/>
+	<SubTexture name="Peep_Idle0009" x="201" y="141" width="201" height="144"/>
+	<SubTexture name="Peep_Left0000" x="402" y="141" width="184" height="188" frameX="0" frameY="0" frameWidth="194" frameHeight="188"/>
+	<SubTexture name="Peep_Left0001" x="586" y="141" width="188" height="188" frameX="0" frameY="0" frameWidth="194" frameHeight="188"/>
+	<SubTexture name="Peep_Left0002" x="774" y="141" width="191" height="188" frameX="0" frameY="0" frameWidth="194" frameHeight="188"/>
+	<SubTexture name="Peep_Left0003" x="965" y="141" width="194" height="188"/>
+	<SubTexture name="Peep_Left0004" x="1159" y="141" width="184" height="188" frameX="0" frameY="0" frameWidth="194" frameHeight="188"/>
+	<SubTexture name="Peep_Left0005" x="1159" y="141" width="184" height="188" frameX="0" frameY="0" frameWidth="194" frameHeight="188"/>
+	<SubTexture name="Peep_Left0006" x="1159" y="141" width="184" height="188" frameX="0" frameY="0" frameWidth="194" frameHeight="188"/>
+	<SubTexture name="Peep_Left0007" x="1159" y="141" width="184" height="188" frameX="0" frameY="0" frameWidth="194" frameHeight="188"/>
+	<SubTexture name="Peep_Left0008" x="1159" y="141" width="184" height="188" frameX="0" frameY="0" frameWidth="194" frameHeight="188"/>
+	<SubTexture name="Peep_Left0009" x="1159" y="141" width="184" height="188" frameX="0" frameY="0" frameWidth="194" frameHeight="188"/>
+	<SubTexture name="Peep_Right0000" x="1343" y="141" width="220" height="149" frameX="-3" frameY="0" frameWidth="229" frameHeight="149"/>
+	<SubTexture name="Peep_Right0001" x="1563" y="141" width="222" height="149" frameX="-3" frameY="0" frameWidth="229" frameHeight="149"/>
+	<SubTexture name="Peep_Right0002" x="1785" y="141" width="224" height="149" frameX="-2" frameY="0" frameWidth="229" frameHeight="149"/>
+	<SubTexture name="Peep_Right0003" x="0" y="329" width="226" height="149" frameX="-1" frameY="0" frameWidth="229" frameHeight="149"/>
+	<SubTexture name="Peep_Right0004" x="226" y="329" width="228" height="149" frameX="0" frameY="0" frameWidth="229" frameHeight="149"/>
+	<SubTexture name="Peep_Right0005" x="454" y="329" width="229" height="149"/>
+	<SubTexture name="Peep_Right0006" x="454" y="329" width="229" height="149"/>
+	<SubTexture name="Peep_Right0007" x="454" y="329" width="229" height="149"/>
+	<SubTexture name="Peep_Right0008" x="454" y="329" width="229" height="149"/>
+	<SubTexture name="Peep_Right0009" x="454" y="329" width="229" height="149"/>
+	<SubTexture name="Peep_Up0000" x="683" y="329" width="211" height="189" frameX="0" frameY="-2" frameWidth="211" frameHeight="194"/>
+	<SubTexture name="Peep_Up0001" x="894" y="329" width="210" height="189" frameX="0" frameY="-2" frameWidth="211" frameHeight="194"/>
+	<SubTexture name="Peep_Up0002" x="1104" y="329" width="208" height="191" frameX="0" frameY="-1" frameWidth="211" frameHeight="194"/>
+	<SubTexture name="Peep_Up0003" x="1312" y="329" width="206" height="191" frameX="0" frameY="-1" frameWidth="211" frameHeight="194"/>
+	<SubTexture name="Peep_Up0004" x="1518" y="329" width="203" height="193" frameX="-1" frameY="0" frameWidth="211" frameHeight="194"/>
+	<SubTexture name="Peep_Up0005" x="1721" y="329" width="202" height="194" frameX="-1" frameY="0" frameWidth="211" frameHeight="194"/>
+	<SubTexture name="Peep_Up0006" x="1721" y="329" width="202" height="194" frameX="-1" frameY="0" frameWidth="211" frameHeight="194"/>
+	<SubTexture name="Peep_Up0007" x="1721" y="329" width="202" height="194" frameX="-1" frameY="0" frameWidth="211" frameHeight="194"/>
+	<SubTexture name="Peep_Up0008" x="1721" y="329" width="202" height="194" frameX="-1" frameY="0" frameWidth="211" frameHeight="194"/>
+	<SubTexture name="Peep_Up0009" x="1721" y="329" width="202" height="194" frameX="-1" frameY="0" frameWidth="211" frameHeight="194"/>
+</TextureAtlas>

@@ -1,0 +1,58 @@
+{
+	"storyName": "cal",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "cal",
+	"weekBefore": "peep",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Cal",
+			"cal",
+			[
+				169,
+				149,
+				109
+			]
+		],
+		[
+			"Cat",
+			"cal",
+			[
+				169,
+				149,
+				109
+			]
+		],
+		[
+			"Nine-lives",
+			"cal",
+			[
+				169,
+				149,
+				109
+			]
+		],
+		[
+			"Purr",
+			"cal",
+			[
+				129,
+				129,
+				129
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "cal"
+}

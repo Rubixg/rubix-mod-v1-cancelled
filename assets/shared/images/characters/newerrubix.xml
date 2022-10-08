@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="newerrubix.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rubix Idle0000" x="0" y="0" width="273" height="158" frameX="-1" frameY="-19" frameWidth="274" frameHeight="183"/>
+	<SubTexture name="Rubix Idle0001" x="273" y="0" width="274" height="170" frameX="0" frameY="-5" frameWidth="274" frameHeight="183"/>
+	<SubTexture name="Rubix Idle0002" x="547" y="0" width="273" height="183" frameX="-1" frameY="0" frameWidth="274" frameHeight="183"/>
+	<SubTexture name="Rubix Idle0003" x="547" y="0" width="273" height="183" frameX="-1" frameY="0" frameWidth="274" frameHeight="183"/>
+	<SubTexture name="Rubix Idle0004" x="547" y="0" width="273" height="183" frameX="-1" frameY="0" frameWidth="274" frameHeight="183"/>
+	<SubTexture name="Rubix Idle0005" x="547" y="0" width="273" height="183" frameX="-1" frameY="0" frameWidth="274" frameHeight="183"/>
+	<SubTexture name="Rubix Sing Down0000" x="0" y="183" width="273" height="183"/>
+	<SubTexture name="Rubix Sing Down0001" x="273" y="183" width="273" height="181" frameX="0" frameY="-1" frameWidth="273" frameHeight="183"/>
+	<SubTexture name="Rubix Sing Down0002" x="546" y="183" width="273" height="178" frameX="0" frameY="-5" frameWidth="273" frameHeight="183"/>
+	<SubTexture name="Rubix Sing Down0003" x="546" y="183" width="273" height="178" frameX="0" frameY="-5" frameWidth="273" frameHeight="183"/>
+	<SubTexture name="Rubix Sing Left0000" x="0" y="366" width="266" height="183" frameX="-3" frameY="0" frameWidth="269" frameHeight="183"/>
+	<SubTexture name="Rubix Sing Left0001" x="266" y="366" width="267" height="183" frameX="-1" frameY="0" frameWidth="269" frameHeight="183"/>
+	<SubTexture name="Rubix Sing Left0002" x="533" y="366" width="269" height="183"/>
+	<SubTexture name="Rubix Sing Left0003" x="533" y="366" width="269" height="183"/>
+	<SubTexture name="Rubix Sing Right0000" x="0" y="549" width="294" height="183" frameX="-1" frameY="0" frameWidth="300" frameHeight="183"/>
+	<SubTexture name="Rubix Sing Right0001" x="294" y="549" width="297" height="183" frameX="0" frameY="0" frameWidth="300" frameHeight="183"/>
+	<SubTexture name="Rubix Sing Right0002" x="591" y="549" width="300" height="183"/>
+	<SubTexture name="Rubix Sing Right0003" x="591" y="549" width="300" height="183"/>
+	<SubTexture name="Rubix Sing Up0000" x="0" y="732" width="272" height="177" frameX="0" frameY="-6" frameWidth="272" frameHeight="183"/>
+	<SubTexture name="Rubix Sing Up0001" x="272" y="732" width="272" height="180" frameX="0" frameY="-2" frameWidth="272" frameHeight="183"/>
+	<SubTexture name="Rubix Sing Up0002" x="544" y="732" width="272" height="183"/>
+	<SubTexture name="Rubix Sing Up0003" x="544" y="732" width="272" height="183"/>
+</TextureAtlas>

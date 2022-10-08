@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Magnet",
+			"magnet",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Attract",
+			"magnet",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "magnet",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Magnet",
+	"weekName": "Magnet",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

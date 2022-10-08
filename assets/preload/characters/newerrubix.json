@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-266,
+				-99
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Rubix Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-260,
+				-101
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Rubix Sing Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-262,
+				-103
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Rubix Sing Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-250,
+				-100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Rubix Sing Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-260,
+				-101
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Rubix Sing Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/newerrubix",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "rubix",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		75,
+		175
+	],
+	"camera_position": [
+		110,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

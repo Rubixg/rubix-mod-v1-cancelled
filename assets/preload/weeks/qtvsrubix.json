@@ -1,0 +1,58 @@
+{
+	"storyName": "qt",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "qt",
+	"weekBefore": "vs dave and bambi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Cutie",
+			"qt",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Embarrased",
+			"qt",
+			[
+				146,
+				113,
+				253
+			]
+		],		
+		[
+			"Exposed",
+			"kb",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Sawblade",
+			"kb",
+			[
+				146,
+				113,
+				253
+			]
+		]										
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "qt"
+}

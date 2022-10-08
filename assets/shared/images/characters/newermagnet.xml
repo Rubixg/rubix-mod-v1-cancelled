@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="newermagnet.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Magnet_Down0000" x="0" y="0" width="374" height="271" frameX="0" frameY="-7" frameWidth="376" frameHeight="284"/>
+	<SubTexture name="Magnet_Down0001" x="374" y="0" width="375" height="278" frameX="0" frameY="-3" frameWidth="376" frameHeight="284"/>
+	<SubTexture name="Magnet_Down0002" x="749" y="0" width="376" height="284"/>
+	<SubTexture name="Magnet_Down0003" x="749" y="0" width="376" height="284"/>
+	<SubTexture name="Magnet_Idle0000" x="1125" y="0" width="419" height="304" frameX="0" frameY="-10" frameWidth="419" frameHeight="318"/>
+	<SubTexture name="Magnet_Idle0001" x="1544" y="0" width="419" height="309" frameX="0" frameY="-6" frameWidth="419" frameHeight="318"/>
+	<SubTexture name="Magnet_Idle0002" x="0" y="309" width="419" height="314" frameX="0" frameY="-3" frameWidth="419" frameHeight="318"/>
+	<SubTexture name="Magnet_Idle0003" x="419" y="309" width="418" height="318" frameX="0" frameY="0" frameWidth="419" frameHeight="318"/>
+	<SubTexture name="Magnet_Idle0004" x="419" y="309" width="418" height="318" frameX="0" frameY="0" frameWidth="419" frameHeight="318"/>
+	<SubTexture name="Magnet_Idle0005" x="419" y="309" width="418" height="318" frameX="0" frameY="0" frameWidth="419" frameHeight="318"/>
+	<SubTexture name="Magnet_Left0000" x="837" y="309" width="349" height="327" frameX="-6" frameY="0" frameWidth="363" frameHeight="327"/>
+	<SubTexture name="Magnet_Left0001" x="1186" y="309" width="356" height="327" frameX="-3" frameY="0" frameWidth="363" frameHeight="327"/>
+	<SubTexture name="Magnet_Left0002" x="1542" y="309" width="363" height="327"/>
+	<SubTexture name="Magnet_Left0003" x="1542" y="309" width="363" height="327"/>
+	<SubTexture name="Magnet_Right0000" x="0" y="636" width="427" height="312" frameX="-3" frameY="0" frameWidth="431" frameHeight="312"/>
+	<SubTexture name="Magnet_Right0001" x="427" y="636" width="430" height="312" frameX="-1" frameY="0" frameWidth="431" frameHeight="312"/>
+	<SubTexture name="Magnet_Right0002" x="857" y="636" width="431" height="312"/>
+	<SubTexture name="Magnet_Right0003" x="857" y="636" width="431" height="312"/>
+	<SubTexture name="Magnet_Up0000" x="1288" y="636" width="364" height="366" frameX="0" frameY="0" frameWidth="365" frameHeight="366"/>
+	<SubTexture name="Magnet_Up0001" x="1652" y="636" width="364" height="363" frameX="0" frameY="-3" frameWidth="365" frameHeight="366"/>
+	<SubTexture name="Magnet_Up0002" x="0" y="1002" width="365" height="359" frameX="0" frameY="-7" frameWidth="365" frameHeight="366"/>
+	<SubTexture name="Magnet_Up0003" x="0" y="1002" width="365" height="359" frameX="0" frameY="-7" frameWidth="365" frameHeight="366"/>
+</TextureAtlas>

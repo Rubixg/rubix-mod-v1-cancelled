@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				500
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sadRubix idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				450,
+				480
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sadRubix Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				370,
+				520
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sadRubix Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				410,
+				540
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sadRubix Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				540,
+				540
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sadRubix Sing Note RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/newsadrubix",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "spirit-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

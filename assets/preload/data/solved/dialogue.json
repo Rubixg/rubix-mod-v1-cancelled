@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok gf i think we got away from that wierdo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who? what? me?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no no no me and gf rap battled someone and they kinda got wierd and creepy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "heyyy wanna do a rap battle??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "um okay sure i have never done one but i'll try my best okay?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok lets go, um what's your name?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ohhhhh my name is Rubix!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright rubix lets do this!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rubix",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ":)"
+		}
+	]
+}

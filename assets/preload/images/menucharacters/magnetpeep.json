@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M Senpai Idle",
+	"image": "Menu_magnetpeep",
+	"position": [
+		100,
+		-147
+	],
+	"scale": 1.65,
+	"confirm_anim": "M Dad Idle"
+}

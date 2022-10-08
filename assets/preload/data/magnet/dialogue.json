@@ -1,0 +1,81 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok rubix im here"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "um"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHERE IS RUBIX"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "might of... umm..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "what have you DONE with him"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i might of made him rearranged"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WHAT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i'll avenge him..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "um"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "magnet",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YOU..."
+		}
+	]
+}

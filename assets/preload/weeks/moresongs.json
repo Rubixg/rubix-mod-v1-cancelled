@@ -1,0 +1,49 @@
+{
+	"storyName": "more songs",
+	"difficulties": "Easy, Normal, Hard, Mania",
+	"hideFreeplay": false,
+	"weekBackground": "extra",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Nostalgia",
+			"rubix",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Fun",
+			"rubix",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Rubix-Challenge",
+			"rubix",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "more songs"
+}

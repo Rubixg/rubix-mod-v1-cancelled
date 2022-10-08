@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				328,
+				500
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cal idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				490,
+				430
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cal Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				560
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cal Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				500
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cal Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				420,
+				550
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cal Sing Note RIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/cal",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "cal",
+	"flip_x": false,
+	"healthbar_colors": [
+		173,
+		149,
+		109
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-142,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Magnet_Angry_Idle"
+		},
+		{
+			"offsets": [
+				-220,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Magnet_Angry_Right"
+		},
+		{
+			"offsets": [
+				-220,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Magnet_Angry_Down"
+		},
+		{
+			"offsets": [
+				-220,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Magnet_Angry_Left"
+		},
+		{
+			"offsets": [
+				-220,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Magnet_Angry_Up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/magnetangry",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "magnet",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-240,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
